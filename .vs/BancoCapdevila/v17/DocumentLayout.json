@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Salvador\\Downloads\\BancoCapdevila\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B2A32A-D5DF-4D2A-B026-777DD2578D5C}|BancoCapdevila\\BancoCapdevila.vbproj|c:\\users\\salvador\\downloads\\bancocapdevila\\bancocapdevila\\cuenta.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B5B2A32A-D5DF-4D2A-B026-777DD2578D5C}|BancoCapdevila\\BancoCapdevila.vbproj|solutionrelative:bancocapdevila\\cuenta.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B2A32A-D5DF-4D2A-B026-777DD2578D5C}|BancoCapdevila\\BancoCapdevila.vbproj|c:\\users\\salvador\\downloads\\bancocapdevila\\bancocapdevila\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B5B2A32A-D5DF-4D2A-B026-777DD2578D5C}|BancoCapdevila\\BancoCapdevila.vbproj|solutionrelative:bancocapdevila\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B2A32A-D5DF-4D2A-B026-777DD2578D5C}|BancoCapdevila\\BancoCapdevila.vbproj|c:\\users\\salvador\\downloads\\bancocapdevila\\bancocapdevila\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B5B2A32A-D5DF-4D2A-B026-777DD2578D5C}|BancoCapdevila\\BancoCapdevila.vbproj|solutionrelative:bancocapdevila\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B2A32A-D5DF-4D2A-B026-777DD2578D5C}|BancoCapdevila\\BancoCapdevila.vbproj|c:\\users\\salvador\\downloads\\bancocapdevila\\bancocapdevila\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B5B2A32A-D5DF-4D2A-B026-777DD2578D5C}|BancoCapdevila\\BancoCapdevila.vbproj|solutionrelative:bancocapdevila\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B2A32A-D5DF-4D2A-B026-777DD2578D5C}|BancoCapdevila\\BancoCapdevila.vbproj|c:\\users\\salvador\\downloads\\bancocapdevila\\bancocapdevila\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B5B2A32A-D5DF-4D2A-B026-777DD2578D5C}|BancoCapdevila\\BancoCapdevila.vbproj|solutionrelative:bancocapdevila\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\Salvador\\Downloads\\BancoCapdevila\\BancoCapdevila\\Form2.vb",
+              "RelativeDocumentMoniker": "BancoCapdevila\\Form2.vb",
+              "ToolTip": "C:\\Users\\Salvador\\Downloads\\BancoCapdevila\\BancoCapdevila\\Form2.vb",
+              "RelativeToolTip": "BancoCapdevila\\Form2.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-18T23:47:50.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cuenta.vb",
+              "DocumentMoniker": "C:\\Users\\Salvador\\Downloads\\BancoCapdevila\\BancoCapdevila\\Cuenta.vb",
+              "RelativeDocumentMoniker": "BancoCapdevila\\Cuenta.vb",
+              "ToolTip": "C:\\Users\\Salvador\\Downloads\\BancoCapdevila\\BancoCapdevila\\Cuenta.vb",
+              "RelativeToolTip": "BancoCapdevila\\Cuenta.vb",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-18T17:38:08.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Salvador\\Downloads\\BancoCapdevila\\BancoCapdevila\\Form2.vb",
+              "RelativeDocumentMoniker": "BancoCapdevila\\Form2.vb",
+              "ToolTip": "C:\\Users\\Salvador\\Downloads\\BancoCapdevila\\BancoCapdevila\\Form2.vb [Dise\u00F1o]",
+              "RelativeToolTip": "BancoCapdevila\\Form2.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-17T05:14:21.36Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Salvador\\Downloads\\BancoCapdevila\\BancoCapdevila\\Form1.vb",
+              "RelativeDocumentMoniker": "BancoCapdevila\\Form1.vb",
+              "ToolTip": "C:\\Users\\Salvador\\Downloads\\BancoCapdevila\\BancoCapdevila\\Form1.vb",
+              "RelativeToolTip": "BancoCapdevila\\Form1.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-17T05:09:08.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Salvador\\Downloads\\BancoCapdevila\\BancoCapdevila\\Form1.vb",
+              "RelativeDocumentMoniker": "BancoCapdevila\\Form1.vb",
+              "ToolTip": "C:\\Users\\Salvador\\Downloads\\BancoCapdevila\\BancoCapdevila\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "BancoCapdevila\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-17T04:54:12.082Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
